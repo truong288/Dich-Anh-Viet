@@ -1,0 +1,9 @@
+flask
+python-telegram-bot==20.3
+deep-translator==1.11.4
+pip install eng-to-ipa
+pip install gTTS
+openpyxl
+telegram
+eng-to-ipa
+gtts
